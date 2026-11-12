@@ -1,0 +1,43 @@
+file,model,class,conf,x1,y1,x2,y2
+001.jpg,rfdetr-nano,laptop,0.974,476,151,1159,929
+001.jpg,rfdetr-nano,cell phone,0.893,272,300,499,453
+001.jpg,rfdetr-nano,cell phone,0.342,0,572,111,759
+002.jpg,rfdetr-nano,cell phone,0.944,506,222,758,400
+002.jpg,rfdetr-nano,laptop,0.856,130,500,692,1162
+002.jpg,rfdetr-nano,laptop,0.587,1,1,225,216
+002.jpg,rfdetr-nano,cell phone,0.411,163,123,302,276
+002.jpg,rfdetr-nano,cell phone,0.389,712,1019,821,1160
+003.jpg,rfdetr-nano,laptop,0.939,428,633,908,828
+003.jpg,rfdetr-nano,cell phone,0.833,130,612,322,692
+003.jpg,rfdetr-nano,laptop,0.477,684,568,924,637
+003.jpg,rfdetr-nano,cell phone,0.425,0,756,126,871
+004.jpg,rfdetr-nano,laptop,0.918,247,476,806,859
+005.jpg,rfdetr-nano,laptop,0.938,292,646,710,919
+005.jpg,rfdetr-nano,cell phone,0.925,135,568,249,614
+005.jpg,rfdetr-nano,laptop,0.821,0,616,161,741
+005.jpg,rfdetr-nano,laptop,0.582,245,432,436,569
+006.jpg,rfdetr-nano,laptop,0.681,277,550,792,1006
+007.jpg,rfdetr-nano,laptop,0.643,603,512,790,582
+007.jpg,rfdetr-nano,laptop,0.394,594,422,784,491
+007.jpg,rfdetr-nano,laptop,0.281,473,390,783,495
+007.jpg,rfdetr-nano,laptop,0.253,487,388,632,495
+008.jpg,rfdetr-nano,laptop,0.944,424,409,765,600
+008.jpg,rfdetr-nano,laptop,0.583,590,34,649,75
+008.jpg,rfdetr-nano,laptop,0.321,590,35,672,80
+008.jpg,rfdetr-nano,laptop,0.283,490,362,607,405
+009.jpg,rfdetr-nano,laptop,0.578,612,479,866,754
+009.jpg,rfdetr-nano,laptop,0.389,417,480,548,631
+010.jpg,rfdetr-nano,laptop,0.94,610,404,1059,602
+010.jpg,rfdetr-nano,laptop,0.256,17,497,246,601
+011.jpg,rfdetr-nano,laptop,0.941,218,136,630,646
+011.jpg,rfdetr-nano,cell phone,0.917,750,470,954,700
+011.jpg,rfdetr-nano,cell phone,0.792,219,396,332,507
+012.jpg,rfdetr-nano,laptop,0.961,239,147,862,799
+012.jpg,rfdetr-nano,cell phone,0.919,266,379,446,442
+012.jpg,rfdetr-nano,cell phone,0.694,778,824,1113,959
+013.jpg,rfdetr-nano,laptop,0.887,390,432,538,530
+014.jpg,rfdetr-nano,cell phone,0.684,313,542,394,645
+015.jpg,rfdetr-nano,laptop,0.554,257,544,566,773
+015.jpg,rfdetr-nano,laptop,0.489,246,600,584,866
+016.jpg,rfdetr-nano,laptop,0.954,343,420,732,644
+016.jpg,rfdetr-nano,cell phone,0.943,189,728,347,909

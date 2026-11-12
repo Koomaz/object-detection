@@ -1,0 +1,38 @@
+file,model,class,conf,x1,y1,x2,y2
+001.jpg,YOLO26 Medium,laptop,0.642,512,130,1157,884
+001.jpg,YOLO26 Medium,laptop,0.339,468,102,936,840
+002.jpg,YOLO26 Medium,laptop,0.717,0,0,224,215
+002.jpg,YOLO26 Medium,cell phone,0.67,506,223,757,401
+002.jpg,YOLO26 Medium,cell phone,0.63,164,124,303,275
+002.jpg,YOLO26 Medium,cell phone,0.365,712,1020,821,1152
+003.jpg,YOLO26 Medium,laptop,0.921,433,630,906,827
+003.jpg,YOLO26 Medium,cell phone,0.827,130,614,322,692
+005.jpg,YOLO26 Medium,laptop,0.906,291,649,709,914
+005.jpg,YOLO26 Medium,cell phone,0.879,133,568,249,614
+005.jpg,YOLO26 Medium,laptop,0.877,1,616,161,740
+005.jpg,YOLO26 Medium,laptop,0.843,246,430,440,566
+005.jpg,YOLO26 Medium,laptop,0.668,157,834,568,1078
+006.jpg,YOLO26 Medium,laptop,0.429,399,683,747,1014
+007.jpg,YOLO26 Medium,laptop,0.746,500,386,633,496
+007.jpg,YOLO26 Medium,laptop,0.34,603,512,789,582
+008.jpg,YOLO26 Medium,laptop,0.938,422,407,763,601
+008.jpg,YOLO26 Medium,laptop,0.66,591,35,670,80
+008.jpg,YOLO26 Medium,laptop,0.267,492,362,609,408
+009.jpg,YOLO26 Medium,laptop,0.914,417,480,544,631
+009.jpg,YOLO26 Medium,laptop,0.845,612,481,867,755
+010.jpg,YOLO26 Medium,laptop,0.91,612,402,1054,600
+010.jpg,YOLO26 Medium,laptop,0.287,16,495,246,605
+011.jpg,YOLO26 Medium,laptop,0.868,208,135,623,722
+011.jpg,YOLO26 Medium,laptop,0.505,755,499,1041,909
+011.jpg,YOLO26 Medium,cell phone,0.421,221,396,328,510
+011.jpg,YOLO26 Medium,cell phone,0.4,750,471,954,698
+012.jpg,YOLO26 Medium,cell phone,0.712,776,825,1112,960
+012.jpg,YOLO26 Medium,cell phone,0.514,269,379,447,440
+012.jpg,YOLO26 Medium,laptop,0.418,367,141,863,633
+012.jpg,YOLO26 Medium,laptop,0.333,282,105,930,706
+013.jpg,YOLO26 Medium,laptop,0.367,391,426,541,531
+014.jpg,YOLO26 Medium,laptop,0.554,243,0,374,77
+015.jpg,YOLO26 Medium,laptop,0.758,257,544,570,762
+015.jpg,YOLO26 Medium,laptop,0.4,246,591,568,841
+016.jpg,YOLO26 Medium,laptop,0.82,339,421,731,644
+016.jpg,YOLO26 Medium,cell phone,0.68,188,728,346,908

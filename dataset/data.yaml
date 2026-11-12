@@ -1,0 +1,10 @@
+# Detection dataset: 2 classes, YOLO format.
+# Images are re-encoded copies (long edge <= 1600 px) of the 5712x4284 originals.
+path: .
+train: train/images
+val: valid/images
+test: test/images
+nc: 2
+names:
+  0: laptop
+  1: cell phone
